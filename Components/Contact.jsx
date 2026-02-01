@@ -1,5 +1,5 @@
 import React from "react";
-import { Mail, Phone, MapPin } from "lucide-react"; // icons from lucide-react
+import { Mail, Phone, MapPin } from "lucide-react"; 
 
 const Contact = () => {
   return (
